@@ -4,26 +4,8 @@
 
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
 
-<style>
-    .animated-text {
-        animation: fadeIn 2s ease-in-out forwards;
-        opacity: 0;
-    }
-
-    @keyframes fadeIn {
-        from {
-            opacity: 0;
-            transform: translateY(20px); /* Pastdan yuqoriga harakat */
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0); /* O'z o'rniga qaytadi */
-        }
-    }
-</style>
-
-<h1 class="animated-text" align="center">Hi 👋, I'm Abdujalil</h1>
-<h3 class="animated-text" align="center">"Connecting the Physical World to the Digital: Development on GitHub"</h3>
+<h1 align="center" style="font-size: 3em; color: #2E8B57;">Hi 👋, I'm Abdujalil</h1>
+<h3 align="center" style="font-size: 2em; color: #4682B4;">"Connecting the Physical World to the Digital: Development on GitHub"</h3>
 
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -34,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Nizomiddinov_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravinda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdujalil-nizomiddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinda j" height="30" width="40" /></a>
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aravinda.jogi.3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aravindamangaluru" height="30" width="40" /></a>
-<a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="al20ec006" height="30" width="40" /></a>
+<a href="https://twitter.com/Nizomiddinov_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdujalil-nizomiddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
