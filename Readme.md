@@ -13,8 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=Abdujalil2107&label=Profile%20views&color=0e75b6&style=flat" alt="Abdujalil2107" style="border-radius: 10px; background-color: #f0f8ff; padding: 5px;"/> 
 </p>
 
-- 🌱 I’m currently learning **Python 😊**
-- ⚡ Fun fact **"Don't chase after companies"**
+<div align="center" style="border: 2px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
+    <p style="margin: 0; font-size: 1.2em;">🌱 I’m currently learning <strong>Python 😊</strong></p>
+    <p style="margin: 0; font-size: 1.2em;">⚡ Fun fact: <strong>"Don't chase after companies"</strong></p>
+</div>
 
 ### 💼 Experience
 - **Web Development Intern** at [Company Name](https://companywebsite.com)
