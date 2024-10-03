@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Abdujalil2107/Gif/blob/main/canva_2.gif" alt="My profile gif" width="100%" />
+</p>
+
+![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
 <h1 align="center" style="color: #2E8B57;">Hi 👋, I'm Abdujalil</h1>
 <h3 align="center" style="color: #4682B4;">"Connecting the Physical World to the Digital: Development on GitHub"</h3>
 
@@ -38,9 +43,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/Abdujalil2107/Gif/blob/main/canva_2.gif" alt="My profile gif" width="100%" />
-</p>
-
-![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
