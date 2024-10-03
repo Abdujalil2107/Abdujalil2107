@@ -17,11 +17,6 @@
     <p style="margin: 0; font-size: 1.2em;">⚡ <strong style="color: #2E8B57;">Fun Fact:</strong> <span style="font-weight: bold;">"Don't chase after companies"</span></p>
 </div>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%"/>
-</p>
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://twitter.com/Nizomiddinov_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
@@ -42,4 +37,9 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-block;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
     </a>
-</p> 
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%"/>
+</p>
