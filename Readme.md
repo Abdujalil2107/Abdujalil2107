@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abdujalil2107&label=Profile%20Views&color=9&icon=0&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=abdujalil2107&label=Profile%20Views&color=9&icon=0&pretty=true&views=10000" />
   </a>
 </p>
 
