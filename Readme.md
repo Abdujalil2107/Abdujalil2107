@@ -3,21 +3,6 @@
 </p>
 
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
-
-
-
-
-
-<div align="center" style="border: 2px solid #4682B4; padding: 10px; background-color: #f0f8ff; border-radius: 10px;">
-    <h2 style="color: #2E8B57;">🌱 I’m currently learning <strong>Python 😊</strong></h2>
-    <h2 style="color: #2E8B57;">⚡ Fun fact: <strong>"Don't chase after companies"</strong></h2>
-</div>
-
-
-
-
-
-
 <h1 align="center" style="color: #2E8B57;">Hi 👋, I'm Abdujalil</h1>
 <h3 align="center" style="color: #4682B4;">"Connecting the Physical World to the Digital: Development on GitHub"</h3>
 
@@ -28,17 +13,21 @@
 </p>
 
 <div align="center" style="border: 2px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
-    <p style="margin: 0; font-size: 1.2em;">🌱 I’m currently learning <strong>Python 😊</strong></p>
-    <p style="margin: 0; font-size: 1.2em;">⚡ Fun fact: <strong>"Don't chase after companies"</strong></p>
+    <p style="margin: 0; font-size: 1.2em;">📈 <strong style="color: #2E8B57;">Currently Learning:</strong> <span style="font-weight: bold;">Python 😊</span></p>
+    <p style="margin: 0; font-size: 1.2em;">⚡ <strong style="color: #2E8B57;">Fun Fact:</strong> <span style="font-weight: bold;">"Don't chase after companies"</span></p>
 </div>
 
 ### 💼 Experience
-- **Web Development Intern** at [Company Name](https://companywebsite.com)
-- **Freelance Developer** - Developed various projects using Python and JavaScript.
+<div align="center" style="border: 1px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
+    <p style="margin: 0; font-size: 1.2em;">💼 <strong>Web Development Intern</strong> at <a href="https://companywebsite.com" target="_blank">Company Name</a></p>
+    <p style="margin: 0; font-size: 1.2em;">💻 <strong>Freelance Developer</strong> - Developed various projects using Python and JavaScript.</p>
+</div>
 
 ### 🌟 Projects
-- [Project 1](https://github.com/username/project1): A brief description of what the project is about.
-- [Project 2](https://github.com/username/project2): A brief description of what the project is about.
+<div align="center" style="border: 1px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
+    <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project1" target="_blank">Project 1</a>: A brief description of what the project is about.</p>
+    <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project2" target="_blank">Project 2</a>: A brief description of what the project is about.</p>
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
