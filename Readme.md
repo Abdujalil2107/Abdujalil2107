@@ -17,12 +17,6 @@
     <p style="margin: 0; font-size: 1.2em;">⚡ <strong style="color: #2E8B57;">Fun Fact:</strong> <span style="font-weight: bold;">"Don't chase after companies"</span></p>
 </div>
 
-### 💼 Experience
-<div align="center" style="border: 1px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
-    <p style="margin: 0; font-size: 1.2em;">💼 <strong>Web Development Intern</strong> at <a href="https://companywebsite.com" target="_blank">Company Name</a></p>
-    <p style="margin: 0; font-size: 1.2em;">💻 <strong>Freelance Developer</strong> - Developed various projects using Python and JavaScript.</p>
-</div>
-
 ### 🌟 Projects
 <div align="center" style="border: 1px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
     <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project1" target="_blank">Project 1</a>: A brief description of what the project is about.</p>
