@@ -44,7 +44,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%"/>
 </p>
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdujalil2107&theme=juicyfresh&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdujalil2107&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+### 🗣️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdujalil2107&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abdujalil2107&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+### 📜 Profile Summary
+<p align="center">
+  <em>I'm a passionate developer who loves coding and learning new technologies. Always ready for challenges!</em>
+</p>
+
+### 🎖️ Badges
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3.9-blue" alt="Python Badge" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-11-blue" alt="C Badge" /></a>
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MATLAB-2021b-orange" alt="MATLAB Badge" /></a>
 </p>
