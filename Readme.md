@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdujalil2107/Gif/gif(1).gif" alt="My Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abdujalil2107/gif(1).gif" alt="My Animation" width="100%" />
 </p>
 
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
