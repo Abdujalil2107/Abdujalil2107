@@ -1,3 +1,5 @@
+![Binary Code Rain](https://videoplasty.com/stock-animation/binary-code-rain-34819)
+
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
 <h1 align="center">Hi 👋, I'm Abdujalil</h1>
 <h3 align="center">"Connecting the Physical World to the Digital: Development on GitHub"</h3>
@@ -38,10 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&locale=en" alt="Abdujalil2107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdujalil2107&" alt="Abdujalil2107" /></p>
-
-
-
-
-
-
-
