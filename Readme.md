@@ -17,10 +17,9 @@
     <p style="margin: 0; font-size: 1.2em;">⚡ <strong style="color: #2E8B57;">Fun Fact:</strong> <span style="font-weight: bold;">"Don't chase after companies"</span></p>
 </div>
 
-### 🌟 Projects
+### 🌟 Meaningful words
 <div align="center" style="border: 1px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
-    <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project1" target="_blank">Project 1</a>: A brief description of what the project is about.</p>
-    <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project2" target="_blank">Project 2</a>: A brief description of what the project is about.</p>
+    <p style="margin: 0; font-size: 1.2em;">📂 <a href="https://github.com/username/project1" target="_blank">Project 1</a>: Life is short, don't waste it on worthless people.</p>
 </div>
 
 ### 📊 GitHub Stats
