@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGShrKjf9o/iVoBorSFiZbU4uXDakMm7w/view?utm_content=DAGShrKjf9o&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="My Canva Design" width="100%" />
+  <img src="https://github.com/Abdujalil2107/Gif/blob/main/canva_2.gif" alt="My profile gif" width="100%" />
 </p>
 
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
