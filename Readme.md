@@ -9,7 +9,9 @@
 <img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Abdujalil2107&label=Profile%20views&color=0e75b6&style=flat" alt="Abdujalil2107" style="border-radius: 10px; background-color: #f0f8ff; padding: 5px;"/> 
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=abdujalil2107&label=Profile%20Views&color=9&icon=0&pretty=true" />
+  </a>
 </p>
 
 <div align="center" style="border: 2px solid #4682B4; border-radius: 10px; background-color: #f0f8ff; padding: 15px; width: 80%; margin: 10px auto;">
