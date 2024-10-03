@@ -34,4 +34,5 @@
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-block;"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-    </a> 
+    </a>
+</p>
