@@ -44,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abdujalil2107&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%"/>
 </p>
 
-
-
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdujalil2107&theme=juicyfresh&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
