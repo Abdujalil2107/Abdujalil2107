@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpwNjNyb3lhNGdwb2ZhejdtNDA5NGd2YTd4cjFtNDJ1a2ZiYjVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uUTzggotttCRTVbkDf/giphy.gif" alt="My Animation" width="100%" />
+  <img src="https://www.canva.com/design/DAGShrKjf9o/iVoBorSFiZbU4uXDakMm7w/view?utm_content=DAGShrKjf9o&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="My Canva Design" width="100%" />
 </p>
 
 ![logo](https://github.com/Abdujalil2107/Abdujalil2107/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1600%20%C3%97%20800%20px).gif)
