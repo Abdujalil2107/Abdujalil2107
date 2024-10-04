@@ -50,6 +50,20 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdujalil2107&theme=juicyfresh&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Ilon o'yini
 
 <picture>
@@ -57,3 +71,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdujalil2107/Abdujalil2107/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Abdujalil2107/Abdujalil2107/output/github-contribution-grid-snake.svg" />
 </picture>
+
